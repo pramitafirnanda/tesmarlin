@@ -12,3 +12,5 @@ yang bisa dibagi 3 akan dicetak booking
 jika bisa dibagi 5 akan dicetak marlin
 
 jika keduanya maka akan dicetak "Booking Marlin"
+
+*dikarenakann waktu kurang, saya belum menggunakan controller untuk input nilai sehingga jika mencoba ubah nilai pada variable $input di App/Helpers/helper.php
